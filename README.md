@@ -1,5 +1,5 @@
-#  
-👋 About Me<br>Hi, I'm Hitanshu, a passionate MERN Stack Developer with a knack for building dynamic and responsive web applications. I love turning ideas into reality using MongoDB, Express, React, and Node.js. Whether it's crafting sleek front-end interfaces or building robust back-end systems, I'm always up for a coding challenge.<br><br>When I'm not coding, you'll find me exploring new tech trends or working on side projects to sharpen my skills. Let's connect and create something awesome together!<br><br>Feel free to tweak it to match your style!
+# 💫 About Me:
+ Hi, I'm Hitanshu, a passionate MERN Stack Developer with a knack for building dynamic and responsive web applications. I love turning ideas into reality using MongoDB, Express, React, and Node.js. Whether it's crafting sleek front-end interfaces or building robust back-end systems, I'm always up for a coding challenge.<br><br>When I'm not coding, you'll find me exploring new tech trends or working on side projects to sharpen my skills. Let's connect and create something awesome together!<br><br>Feel free to tweak it to match your style!
 
 
 ## 🌐 Socials:
