@@ -43,8 +43,7 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
       <h3 align="center">AgentMesh</h3>
       <div align="center">
         <a href="https://github.com/Indra55/Multi-Agent-MarketPlace" target="_blank">
-          <img src="https://via.placeholder.com/300x200/0D1117/FFFFFF/?text=AgentMesh" width="400" alt="AgentMesh"/>
-        </a>
+         </a>
         <p>
           <strong>Python, Crew-AI, LangChain, Gemini, RAG, Pinecone</strong><br>
           Flexible multi-agent framework supporting 15+ specialized AI agents across corporate marketing, legal, education, and finance domains. Includes RAG-based meeting summarization and document Q&A capabilities.
@@ -60,8 +59,7 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
       <h3 align="center">Medical Information Chatbot</h3>
       <div align="center">
         <a href="https://github.com/Indra55/Dr.Chat-Rag-Based-AI-Chatbot" target="_blank">
-          <img src="https://via.placeholder.com/300x200/0D1117/FFFFFF/?text=Medical+Chatbot" width="400" alt="Medical Chatbot"/>
-        </a>
+         </a>
         <p>
           <strong>RAG, LangChain, Gemini, Pinecone</strong><br>
           Chatbot that extracts insights from a 700-page medical knowledge base using RAG-based retrieval. Integrated with Pinecone vector database for efficient search and Gemini AI for natural language understanding.
@@ -75,8 +73,7 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
       <h3 align="center">BookShelf-API</h3>
       <div align="center">
         <a href="https://github.com/yourusername/bookshelf-api" target="_blank">
-          <img src="https://github.com/Indra55/Books-CRUD-MYSQL-API" width="400" alt="BookShelf API"/>
-        </a>
+         </a>
         <p>
           <strong>Go, Gorilla Mux, JSON, RESTful API, MySQL</strong><br>
           High-performance RESTful API capable of handling 1,000+ requests per second for efficient book management with minimal latency. Features optimized JSON serialization and a modular architecture.
@@ -155,7 +152,6 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Indra55&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indra55&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
