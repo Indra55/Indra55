@@ -170,9 +170,8 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
 ## 🎓 Education
 
 <div align="center">
-  <h3>B.Tech in Information Technology</h3>
+  <h3>B.Tech in Information Technology 2027</h3>
   <p>SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering</p>
-  <p>Expected Graduation: May 2027 | CGPA: 8.5</p>
 </div>
 
 ## 📫 Contact Me
