@@ -17,7 +17,6 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
 - 🔭 I specialize in **multi-agent AI systems** and **full-stack development**
 - 🌱 I'm currently exploring advanced **RAG techniques** and **LLM fine-tuning**
 - 💡 I enjoy building systems that leverage AI to solve complex problems
-- 🚀 Technical Co-Committee member at **DJS-S4DS (Society For Data Science)**
 - 🏆 Finalist in multiple hackathons and case study competitions
 
 > "Always curious, always shipping. Let's build something cool."
@@ -178,17 +177,6 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
   <h3>B.Tech in Information Technology</h3>
   <p>SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering</p>
   <p>Expected Graduation: May 2027 | CGPA: 8.5</p>
-</div>
-
-## 💼 Experience
-
-<div align="center">
-  <h3>DJS-S4DS (Society For Data Science) | Technical Co-Committee</h3>
-  <p>2024-Present</p>
-  <ul align="left">
-    <li>Developed the website for DataHack 3.0, a prominent Datathon, which garnered 1300+ registrations and received 40,000+ views</li>
-    <li>Engineered user registration processes and refined database integrations within a cross-functional team</li>
-  </ul>
 </div>
 
 ## 📫 Contact Me
