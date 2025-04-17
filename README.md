@@ -3,9 +3,9 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-hitanshu.tech-brightgreen?style=for-the-badge&logo=safari&logoColor=white)](https://hitanshu.tech)
   [![Email](https://img.shields.io/badge/Email-galahitanshu@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galahitanshu@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hitanshugala)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Indra55)
-  [![CodeForces](https://img.shields.io/badge/CodeForces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
+  [![Leetcode](https://img.shields.io/badge/CodeForces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://leetcode.com/u/Hitanshugala)
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hitanshu326)
   [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@galahitanshu)
 </div>
@@ -29,8 +29,7 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
     <td width="50%">
       <h3 align="center">Stock Analyzer</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/stock-analyzer" target="_blank">
-          <img src="https://via.placeholder.com/300x200/0D1117/FFFFFF/?text=Stock+Analyzer" width="400" alt="Stock Analyzer"/>
+        <a href="https://github.com/Indra55/Stock_Analysis_Agent/" target="_blank">
         </a>
         <p>
           <strong>Python, Crew-AI, Gemini, Alpha Vantage, JavaScript</strong><br>
@@ -44,7 +43,7 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
     <td width="50%">
       <h3 align="center">AgentMesh</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/agentmesh" target="_blank">
+        <a href="https://github.com/Indra55/Multi-Agent-MarketPlace" target="_blank">
           <img src="https://via.placeholder.com/300x200/0D1117/FFFFFF/?text=AgentMesh" width="400" alt="AgentMesh"/>
         </a>
         <p>
@@ -61,7 +60,7 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
     <td width="50%">
       <h3 align="center">Medical Information Chatbot</h3>
       <div align="center">
-        <a href="https://github.com/yourusername/medical-chatbot" target="_blank">
+        <a href="https://github.com/Indra55/Dr.Chat-Rag-Based-AI-Chatbot" target="_blank">
           <img src="https://via.placeholder.com/300x200/0D1117/FFFFFF/?text=Medical+Chatbot" width="400" alt="Medical Chatbot"/>
         </a>
         <p>
@@ -77,7 +76,7 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
       <h3 align="center">BookShelf-API</h3>
       <div align="center">
         <a href="https://github.com/yourusername/bookshelf-api" target="_blank">
-          <img src="https://via.placeholder.com/300x200/0D1117/FFFFFF/?text=BookShelf+API" width="400" alt="BookShelf API"/>
+          <img src="https://github.com/Indra55/Books-CRUD-MYSQL-API" width="400" alt="BookShelf API"/>
         </a>
         <p>
           <strong>Go, Gorilla Mux, JSON, RESTful API, MySQL</strong><br>
@@ -95,11 +94,15 @@ I'm a full-stack developer and GenAI specialist passionate about building innova
 
 <div align="center">
 
-| Competition | Result | Description |
-|-------------|--------|-------------|
-| **Hackniche 3.0 2025** | Finalist (Top 30 out of 500 teams) | Established an e-commerce solution with a recommendation system, RAG chatbot, visual search, and NLP techniques |
-| **Cyber-Cypher 4.0 2025** | Finalist (Top 30 out of 300 teams) | Led the development of Startup Assistant, leveraging Generative AI to support startup founders |
+| Competition                  | Result                             | Description |
+|-----------------------------|------------------------------------|-------------|
+| **Hackniche 3.0 2025**      | Finalist (Top 30 out of 500 teams) | Established an e-commerce solution with a recommendation system, RAG chatbot, visual search, and NLP techniques |
+| **Cyber-Cypher 4.0 2025**   | Finalist (Top 30 out of 300 teams) | Led the development of Startup Assistant, leveraging Generative AI to support startup founders |
 | **Case Study Competition 2025** | 3rd Position | Secured 3rd position in a National-level Case Study Competition organized by IIC, IIT Bombay |
+| **D2K Hackathon** 2025           | Finalist (Top teams out of 150)    | Developed a Multi-Agent Marketplace system with intelligent agent coordination |
+| **M# Hackathon (Manipal)** 2024  | Finalist (Top teams out of 400)    | Built a pet-focused application aligned with an SDG-supported problem statement |
+
+
 
 </div>
 
