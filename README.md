@@ -26,7 +26,7 @@
 
 I'm a passionate **Full-Stack Developer** and **GenAI Specialist** with expertise in building innovative solutions that tackle complex real-world challenges. My technical journey combines deep knowledge of multi-agent AI systems, advanced RAG techniques, and modern full-stack development practices.
 
-Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering (expected May 2027, 8.5 CGPA).
+Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering (expected May 2027).
 
 <table>
   <tr>
@@ -223,7 +223,6 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
 <div align="center">
   <h3>B.Tech in Information Technology (2023-2027)</h3>
   <p>SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering</p>
-  <p><b>CGPA:</b> 8.5/10.0</p>
 </div>
 
 ## 📬 Get In Touch
