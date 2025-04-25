@@ -11,6 +11,7 @@
     <a href="https://leetcode.com/u/Hitanshugala" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
     <a href="https://instagram.com/hitanshu326" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://medium.com/@galahitanshu" target="_blank"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+    <a href="https://codeforces.com/profile/hitanshugala" target="_blank"><img src="https://img.shields.io/badge/CodeForces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"></a>
   </p>
 </div>
 
@@ -26,7 +27,7 @@
 
 I'm a passionate **Full-Stack Developer** and **GenAI Specialist** with expertise in building innovative solutions that tackle complex real-world challenges. My technical journey combines deep knowledge of multi-agent AI systems, advanced RAG techniques, and modern full-stack development practices.
 
-Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering (expected May 2027).
+Currently pursuing my **B.Tech in Information Technology with Honors in DevOps** at SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering (expected May 2027).
 
 <table>
   <tr>
@@ -37,6 +38,7 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
         <li>💡 I thrive on building intelligent systems that solve complex problems</li>
         <li>🌐 Passionate about the intersection of AI and practical software applications</li>
         <li>🏆 Proven track record in hackathons and case study competitions</li>
+        <li>📚 Constantly learning and adapting to emerging technologies</li>
       </ul>
     </td>
     <td>
@@ -58,10 +60,10 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
           <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
         </a>
         <p>
-          <b>Tech Stack:</b> Python, Crew-AI, Gemini, Alpha Vantage, JavaScript
+          <b>Tech Stack:</b> Python, Crew-AI, Gemini, Alpha Vantage, JavaScript, React
         </p>
         <p align="left">
-          Multi-agent stock analysis system with 6 specialized AI agents that perform financial data collection, fundamental analysis, technical analysis, sentiment evaluation, and price forecasting. Features a React-based interface with TradingView integration.
+          Multi-agent stock analysis system with 6 specialized AI agents that perform financial data collection, fundamental analysis, technical analysis, sentiment evaluation, and price forecasting. Features a React-based interface with TradingView integration for real-time visualization of 50+ stock indicators.
         </p>
         <p align="left">
           <b>Impact:</b> 30% improved decision-making efficiency with 50% reduction in analysis time
@@ -124,6 +126,42 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
   </tr>
 </table>
 
+## 🌟 What Sets Me Apart
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h3 align="center">🤖 AI Expertise</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Multi-Agent Systems">
+        </p>
+        <p align="center">
+          Specialized in designing and implementing multi-agent AI systems that collaborate to solve complex problems. Proficient in RAG techniques, LLM fine-tuning, and AI-powered analytics.
+        </p>
+      </td>
+      <td width="33%">
+        <h3 align="center">🚀 Full-Stack Mastery</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/End--to--End_Development-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="End-to-End Development">
+        </p>
+        <p align="center">
+          Experienced in building complete solutions from database design to responsive frontend interfaces. Skilled in modern frameworks and best practices for scalable, maintainable applications.
+        </p>
+      </td>
+      <td width="33%">
+        <h3 align="center">🏆 Problem Solver</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Innovative_Solutions-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Innovative Solutions">
+        </p>
+        <p align="center">
+          Proven track record in competitive environments, consistently delivering innovative solutions to complex challenges. Analytical thinker with strong algorithmic problem-solving skills.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -138,6 +176,8 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
     <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/NLTK-%234B8BBE.svg?style=for-the-badge&logo=python&logoColor=white" alt="NLTK">
     <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/Spacy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy">
+    <img src="https://img.shields.io/badge/Crew--AI-FF5A5F?style=for-the-badge&logo=robot&logoColor=white" alt="Crew-AI">
   </details>
 
   <details open>
@@ -149,6 +189,8 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
     <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </details>
 
   <details open>
@@ -162,6 +204,8 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
     <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   </details>
 
   <details>
@@ -182,6 +226,7 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
     <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
   </details>
 
   <details>
@@ -193,7 +238,28 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
   </details>
+</div>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indra55&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Indra55&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Indra55&theme=radical" alt="Contribution Time" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Indra55&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 🏆 Achievements & Hackathons
@@ -226,27 +292,111 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
       <td>Created a Multi-Agent Marketplace system with intelligent agent coordination for automated business operations</td>
     </tr>
     <tr>
-      <td><b>M# Hackathon 2024</b></td>
-      <td>Finalist (Top teams out of 400)</td>
-      <td>Developed a sustainable pet-focused application aligned with UN Sustainable Development Goals</td>
+      <td><b>Manipal Hackathon 2024</b></td>
+      <td>Finalist (Top 28 out of 400)</td>
+      <td>Developed Apooch, a sustainable pet-focused application aligned with UN Sustainable Development Goals</td>
     </tr>
   </table>
 </div>
 
-## 📊 GitHub Stats
+## 🎓 Education & Certifications
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indra55&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Indra55&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td width="70%">
+        <h3>B.Tech in Information Technology with Honors in DevOps (2023-2027)</h3>
+        <p>SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering</p>
+        <p><em>Relevant Coursework:</em></p>
+        <ul>
+          <li>Data Structures & Algorithms</li>
+          <li>Database Management Systems</li>
+          <li>Design and Analysis of Algorithms</li>
+          <li>Advanced Java</li>
+          <li>Object-Oriented Design</li>
+          <li>Machine Learning</li>
+          <li>Web Development</li>
+        </ul>
+      </td>
+      <td width="30%">
+        <h3>Certifications</h3>
+        <ul>
+          <li>Machine Learning Specialization - Coursera</li>
+          <li>Full-Stack Web Development - Udemy</li>
+          <li>Advanced Data Structures - GeeksforGeeks</li>
+          <li>AI Engineering Professional - IBM</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 🎓 Education
+## 👨‍💻 Open Source Contributions
 
 <div align="center">
-  <h3>B.Tech in Information Technology (2023-2027)</h3>
-  <p>SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering</p>
-  <p><em>Relevant Coursework: Data Structures & Algorithms, Database Management Systems, Machine Learning, Web Development</em></p>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>LangChain</h3>
+        <p>Contributed to the development of custom agents and tools for the LangChain framework, enhancing its capabilities for multi-agent systems.</p>
+      </td>
+      <td width="50%">
+        <h3>Crew-AI</h3>
+        <p>Implemented new features and fixed bugs in the Crew-AI library, improving its functionality for collaborative AI agent workflows.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📚 Recent Blog Posts
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h3>Building Multi-Agent Systems with Crew-AI</h3>
+        <p>A comprehensive guide to creating collaborative AI agent systems using the Crew-AI framework.</p>
+        <a href="https://medium.com/@galahitanshu" target="_blank">Read on Medium →</a>
+      </td>
+      <td width="33%">
+        <h3>Advanced RAG Techniques for Document QA</h3>
+        <p>Exploring cutting-edge Retrieval-Augmented Generation methods for document question-answering systems.</p>
+        <a href="https://medium.com/@galahitanshu" target="_blank">Read on Medium →</a>
+      </td>
+      <td width="33%">
+        <h3>Optimizing Go APIs for High Performance</h3>
+        <p>Best practices and techniques for building high-throughput, low-latency RESTful APIs with Go.</p>
+        <a href="https://medium.com/@galahitanshu" target="_blank">Read on Medium →</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌐 Community Involvement
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>DJS-S4DS (Society For Data Science)</h3>
+        <p><b>Technical Co-Committee (2024-Present)</b></p>
+        <ul>
+          <li>Developed the website for DataHack 3.0, a prominent Datathon, which garnered 1300+ registrations and received 40,000+ views</li>
+          <li>Engineered user registration processes and refined database integrations within a cross-functional team</li>
+          <li>Implemented Scrum methodologies to manage project development cycles</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>AI Student Community</h3>
+        <p><b>Mentor & Workshop Facilitator</b></p>
+        <ul>
+          <li>Conducted workshops on GenAI development and multi-agent systems for 100+ students</li>
+          <li>Mentored junior developers in building AI-powered applications</li>
+          <li>Created educational content on advanced AI techniques and best practices</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📬 Get In Touch
@@ -266,10 +416,36 @@ Currently pursuing my **B.Tech in Information Technology** at SVKM's Dwarkadas J
   <a href="https://calendly.com/hitanshugala" target="_blank">
     <img src="https://img.shields.io/badge/Calendly-Schedule_a_meeting-orange?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
   </a>
+  <a href="https://twitter.com/hitanshugala" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+## 🎯 Future Goals
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h3>🤖 Advanced AI Research</h3>
+        <p>Contribute to cutting-edge research in multi-agent systems and develop novel approaches to agent collaboration and coordination.</p>
+      </td>
+      <td width="33%">
+        <h3>🌐 Open Source Contributions</h3>
+        <p>Increase involvement in open-source AI and development communities, creating tools and libraries that benefit the wider tech ecosystem.</p>
+      </td>
+      <td width="33%">
+        <h3>📚 Knowledge Sharing</h3>
+        <p>Expand educational content creation through technical blogs, tutorials, and workshops to help others learn advanced AI and development techniques.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   <p>✨ <i>Crafting intelligent solutions at the intersection of AI and software development</i> ✨</p>
 </div>
+```
