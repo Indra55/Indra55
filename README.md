@@ -54,6 +54,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     </td>
   </tr>
 </table>
+          <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -90,7 +91,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
             <br><br>
             <b>Impact:</b> 30% improved decision-making efficiency with 50% reduction in analysis time
           </p>
-          <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
         </div>
       </td>
       <td width="50%">
