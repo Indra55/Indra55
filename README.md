@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hitanshu%20Gala&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hitanshu+Gala;Full-Stack+Developer;GenAI+Specialist;Problem+Solver" alt="Typing SVG" />
   
@@ -115,7 +114,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
             <br><br>
             <b>Impact:</b> 40% reduction in business analysis time with enhanced decision support
           </p>
-          <img src="https://github.com/Indra55/Indra55/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
         </div>
       </td>
     </tr>
@@ -142,7 +140,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
             <br><br>
             <b>Features:</b> Multiple visualization types, intelligent sample data generation, customization options, and accessibility features
           </p>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Indra55&repo=PLOTT&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="PLOTT Repo" />
         </div>
       </td>
       <td width="50%">
@@ -167,7 +164,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
             <br><br>
             <b>Impact:</b> 30% reduction in data processing time with 40% less code redundancy
           </p>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Indra55&repo=bookshelf-api&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="BookShelf-API Repo" />
         </div>
       </td>
     </tr>
@@ -275,8 +271,8 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Indra55&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indra55&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F" width="49%" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Indra55&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%" alt="GitHub Stats" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=indra55&theme=highcontrast)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Indra55&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%" alt="GitHub Stats" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indra55&custom_title=Hitanshu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
@@ -396,38 +392,8 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
 </div>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Open Source Contributions
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="40" />
-          <h3>LangChain</h3>
-        </div>
-        <p align="center">
-          Contributed to the development of custom agents and tools for the LangChain framework, enhancing its capabilities for multi-agent systems.
-        </p>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=langchain-ai&repo=langchain&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="LangChain Repo" />
-        </div>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="40" />
-          <h3>Crew-AI</h3>
-        </div>
-        <p align="center">
-          Implemented new features and fixed bugs in the Crew-AI library, improving its functionality for collaborative AI agent workflows.
-        </p>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=joaomdmoura&repo=crewAI&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Crew-AI Repo" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+ 
+   
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
@@ -482,38 +448,9 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Community Involvement
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="60" />
-          <h3>DJS-S4DS (Society For Data Science)</h3>
-          <p><b>Technical Co-Committee (2024-Present)</b></p>
-        </div>
-        <ul>
-          <li>Developed the website for DataHack 3.0, a prominent Datathon, which garnered 1300+ registrations and received 40,000+ views</li>
-          <li>Engineered user registration processes and refined database integrations within a cross-functional team</li>
-          <li>Implemented Scrum methodologies to manage project development cycles</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Teacher.png" alt="Teacher" width="60" />
-          <h3>AI Student Community</h3>
-          <p><b>Mentor & Workshop Facilitator</b></p>
-        </div>
-        <ul>
-          <li>Conducted workshops on GenAI development and multi-agent systems for 100+ students</li>
-          <li>Mentored junior developers in building AI-powered applications</li>
-          <li>Created educational content on advanced AI techniques and best practices</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+ 
+    
+    
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
