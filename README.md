@@ -94,7 +94,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
       </td>
       <td width="50%">
         <h3 align="center">
-          <img src="[https://img.icons8.com/color/48/000000/mesh-network.png](https://icons8.com/icon/113526/marketplace-hub)" width="25" />
+          <img src="https://img.icons8.com/?size=100&id=113526&format=png&color=000000" width="25" />
           AgentMesh
         </h3>
         <div align="center">
