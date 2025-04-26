@@ -94,7 +94,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
       </td>
       <td width="50%">
         <h3 align="center">
-          <img src="https://img.icons8.com/color/48/000000/mesh-network.png" width="25" />
+          <img src="[https://img.icons8.com/color/48/000000/mesh-network.png](https://icons8.com/icon/113526/marketplace-hub)" width="25" />
           AgentMesh
         </h3>
         <div align="center">
@@ -181,8 +181,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     <tr>
       <td width="33%">
         <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="80" />
-          <h3>AI Expertise</h3>
+           <h3>AI Expertise</h3>
         </div>
         <p align="center">
           <img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Multi-Agent Systems">
@@ -193,8 +192,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
       </td>
       <td width="33%">
         <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="80" />
-          <h3>Full-Stack Mastery</h3>
+           <h3>Full-Stack Mastery</h3>
         </div>
         <p align="center">
           <img src="https://img.shields.io/badge/End--to--End_Development-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="End-to-End Development">
@@ -205,8 +203,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
       </td>
       <td width="33%">
         <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="80" />
-          <h3>Problem Solver</h3>
+           <h3>Problem Solver</h3>
         </div>
         <p align="center">
           <img src="https://img.shields.io/badge/Innovative_Solutions-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Innovative Solutions">
