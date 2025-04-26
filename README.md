@@ -382,9 +382,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
   </table>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
 
  
    
@@ -402,8 +399,8 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
         <div align="center">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="40" />
         </div>
-        <h3 align="center">Building Multi-Agent Systems with Crew-AI</h3>
-        <p align="center">A comprehensive guide to creating collaborative AI agent systems using the Crew-AI framework.</p>
+        <h3 align="center">Building Multi-Agent Travel Agent</h3>
+        <p align="center">From Idea to Itinerary: Building a Travel Assistant Powered by Agentic-AI.</p>
         <div align="center">
           <a href="https://medium.com/@galahitanshu" target="_blank">
             <img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
@@ -414,26 +411,13 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
         <div align="center">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="40" />
         </div>
-        <h3 align="center">Advanced RAG Techniques for Document QA</h3>
-        <p align="center">Exploring cutting-edge Retrieval-Augmented Generation methods for document question-answering systems.</p>
+        <h3 align="center">Revolutionizing Startup Guidance with AI</h3>
+        <p align="center">In this blog post, we’re diving into our cutting-edge project developed during the Taqneeq’s Cypher 4.0 Hackathon. Our mission? To simplify the startup journey for solo founders using AI. The result? We became finalists!.</p>
         <div align="center">
           <a href="https://medium.com/@galahitanshu" target="_blank">
             <img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
           </a>
         </div>
-      </td>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="40" />
-        </div>
-        <h3 align="center">Optimizing Go APIs for High Performance</h3>
-        <p align="center">Best practices and techniques for building high-throughput, low-latency RESTful APIs with Go.</p>
-        <div align="center">
-          <a href="https://medium.com/@galahitanshu" target="_blank">
-            <img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-          </a>
-        </div>
-      </td>
     </tr>
   </table>
 </div>
@@ -446,9 +430,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     
     
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> Future Goals
 
