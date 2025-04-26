@@ -482,9 +482,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
   <a href="https://linkedin.com/in/hitanshugala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://calendly.com/hitanshugala" target="_blank">
-    <img src="https://img.shields.io/badge/Calendly-Schedule_a_meeting-orange?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
-  </a>
+ 
   <a href="https://twitter.com/hitanshugala" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
