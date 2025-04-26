@@ -292,7 +292,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     </tr>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="20" />
         <b>Hackniche 3.0 2025</b>
       </td>
       <td>Finalist (Top 30 out of 500)</td>
@@ -300,7 +299,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     </tr>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="20" />
         <b>Cyber-Cypher 4.0 2025</b>
       </td>
       <td>Finalist (Top 30 out of 300)</td>
@@ -308,7 +306,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     </tr>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/1st%20Place%20Medal.png" alt="Medal" width="20" />
         <b>National Case Study Competition 2025</b>
       </td>
       <td>3rd Place Nationally</td>
@@ -316,7 +313,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     </tr>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="20" />
         <b>D2K Hackathon 2025</b>
       </td>
       <td>Finalist (Top teams out of 150)</td>
@@ -324,7 +320,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     </tr>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="20" />
         <b>Manipal Hackathon 2024</b>
       </td>
       <td>Finalist (Top 28 out of 400)</td>
@@ -362,7 +357,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
       </td>
       <td width="40%">
         <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Certificate.png" alt="Certificate" width="60" />
+              📜
           <h3>Certifications</h3>
         </div>
         <ul>
