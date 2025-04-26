@@ -357,8 +357,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
       </td>
       <td width="40%">
         <div align="center">
-              📜
-          <h3>Certifications</h3>
+          <h2>Certifications</h2>
         </div>
         <ul>
           <li>
