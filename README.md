@@ -490,6 +490,11 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
   </a>
   
   <br><br>
+
+  <div align="left">
+  <h2><b>👀 Visitor Count</b></h2>
+  <img src="https://count.getloli.com/@indra55?theme=booru-huggboo" alt="Hitanshu Gala" />
+</div>
   
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
 </div>
