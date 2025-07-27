@@ -126,5 +126,5 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
 
 <br>
 
-<img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif">
+<img src="https://i.pinimg.com/originals/14/76/f6/1476f61a3779ab1dd89666b44a8851f9.gif">
 <h1>Catch You Later!</h1>
