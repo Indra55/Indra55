@@ -8,54 +8,7 @@
 <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="Typing SVG" />
 
   
-  <style>
-  .social-links {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    font-family: 'Segoe UI', sans-serif;
-  }
 
-  .social-links a {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-    background-color: #000;
-    padding: 0.5rem 0.5rem;
-    border-radius: 8px;
-    transition: background-color 0.2s ease;
-  }
-
-  .social-links a:hover {
-    background-color: #222;
-  }
-
-  .social-links img {
-    height: 20px;
-    width: 20px;
-    filter: invert(1); /* makes icons white */
-  }
-</style>
-
-<div class="social-links">
-  <a href="https://hitanshu.tech" target="_blank"><img src="https://img.icons8.com/ios-filled/50/domain.png"/> Portfolio</a>
-  <a href="mailto:galahitanshu@gmail.com">  <img src="https://img.icons8.com/ios-filled/50/apple-mail.png" style="filter: invert(1);" />
- Email</a>
-  <a href="https://linkedin.com/in/hitanshugala" target="_blank"><img src="https://img.icons8.com/ios-filled/50/linkedin.png"/> LinkedIn</a>
-  <a href="https://github.com/Indra55" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png"/> GitHub</a>
-  <a href="https://leetcode.com/u/Hitanshugala" target="_blank"><img src="https://img.icons8.com/ios-filled/50/code.png"/> LeetCode</a>
-  <a href="https://instagram.com/hitanshu326" target="_blank"><img src="https://img.icons8.com/ios-filled/50/instagram-new.png"/> Instagram</a>
-  <a href="https://medium.com/@galahitanshu" target="_blank"><img src="https://img.icons8.com/ios-filled/50/medium-new.png"/> Medium</a>
-  <a href="https://codeforces.com/profile/hitanshugala" target="_blank"><img src="https://img.icons8.com/ios-filled/50/code-fork.png"/> CodeForces</a>
-  <a href="https://twitter.com/dev_hitanshu" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" style="filter: invert(1);" />
-  Twitter
-</a>
-
-</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
 </div>
@@ -72,7 +25,7 @@ I'm a passionate **Full-Stack Developer** and **GenAI Specialist** with expertis
 
 Currently pursuing my **B.Tech in Information Technology with Honors in DevOps** at SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering (expected May 2027).
 
-<<table>
+<table>
   <tr>
     <td>
       <ul>
@@ -118,7 +71,7 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
   <img src="https://img.shields.io/badge/Crew--AI-FF5A5F?style=for-the-badge&logo=robot&logoColor=white" alt="Crew-AI">
   
   <h3>💻 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,java,c&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c&theme=dark" alt="Programming Languages" />
   <br>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   
@@ -150,30 +103,28 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
 <div align="center">
   <p>I'm always open to interesting conversations, collaboration opportunities, and innovative projects.</p>
   
-  <a href="https://hitanshu.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-hitanshu.tech-brightgreen?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:galahitanshu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-galahitanshu@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/hitanshugala" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
- 
-  <a href="https://twitter.com/hitanshugala" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+[![Portfolio](https://img.icons8.com/ios-filled/40/ffffff/domain.png)](https://hitanshu.tech)
+[![Email](https://img.icons8.com/ios-filled/40/ffffff/apple-mail.png)](mailto:galahitanshu@gmail.com)
+[![LinkedIn](https://img.icons8.com/ios-filled/40/ffffff/linkedin.png)](https://linkedin.com/in/hitanshugala)
+[![LeetCode](https://img.icons8.com/ios-filled/40/ffffff/code.png)](https://leetcode.com/u/Hitanshugala)
+[![Instagram](https://img.icons8.com/ios-filled/40/ffffff/instagram-new.png)](https://instagram.com/hitanshu326)
+[![Medium](https://img.icons8.com/ios-filled/40/ffffff/medium-new.png)](https://medium.com/@galahitanshu)
+[![Codeforces](https://img.icons8.com/ios-filled/40/ffffff/code-fork.png)](https://codeforces.com/profile/hitanshugala)
+[![Twitter](https://img.icons8.com/ios-filled/40/ffffff/twitterx--v1.png)](https://twitter.com/dev_hitanshu)
+
   
   <br><br>
 
-  <div align="left">
-  <h2><b>👀 Visitor Count</b></h2>
+<div align="center">
+  <h2><b>Visitor Count</b></h2>
   <img src="https://count.getloli.com/@indra55?theme=booru-huggboo" alt="Hitanshu Gala" />
 </div>
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
-</div>
+<br><br>
+
+<hr>
+
+<br>
+
+<img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif">
+<h1>Catch You Later!</h1>
