@@ -1,34 +1,70 @@
 <div align="center">
-  
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hitanshu+Gala;Full-Stack+Developer;GenAI+Specialist;Problem+Solver;Code+Sorcerer;Creative+Problem+Solver;Open+Source+Contributor;Building+for+the+Future" alt="Typing SVG" />
 
+  <h1 align="center">
+  Hitanshu Gala
+</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hitanshu+Gala;Full-Stack+Developer;Backend+Engineer+%7C+GenAI+Builder;Scalable+Systems+Enthusiast;Creative+Technologist;Open+Source+Contributor;Tech+for+Impact;Building+Future-Ready+Apps" alt="Typing SVG" />
+<img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="Typing SVG" />
 
   
-  <div>
-    <a href="https://hitanshu.tech" target="_blank"><img src="https://img.shields.io/badge/Portfolio-hitanshu.tech-brightgreen?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
-    <a href="mailto:galahitanshu@gmail.com"><img src="https://img.shields.io/badge/Email-galahitanshu@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/hitanshugala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  </div>
-  <div>
-    <a href="https://github.com/Indra55" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://leetcode.com/u/Hitanshugala" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-    <a href="https://instagram.com/hitanshu326" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://medium.com/@galahitanshu" target="_blank"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-    <a href="https://codeforces.com/profile/hitanshugala" target="_blank"><img src="https://img.shields.io/badge/CodeForces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces"></a>
-  </div>
-  
-  <img src="https://komarev.com/ghpvc/?username=Indra55&style=flat-square&color=blueviolet" alt="Profile Views" />
-  
+  <style>
+  .social-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .social-links a {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: #000;
+    padding: 0.5rem 0.5rem;
+    border-radius: 8px;
+    transition: background-color 0.2s ease;
+  }
+
+  .social-links a:hover {
+    background-color: #222;
+  }
+
+  .social-links img {
+    height: 20px;
+    width: 20px;
+    filter: invert(1); /* makes icons white */
+  }
+</style>
+
+<div class="social-links">
+  <a href="https://hitanshu.tech" target="_blank"><img src="https://img.icons8.com/ios-filled/50/domain.png"/> Portfolio</a>
+  <a href="mailto:galahitanshu@gmail.com">  <img src="https://img.icons8.com/ios-filled/50/apple-mail.png" style="filter: invert(1);" />
+ Email</a>
+  <a href="https://linkedin.com/in/hitanshugala" target="_blank"><img src="https://img.icons8.com/ios-filled/50/linkedin.png"/> LinkedIn</a>
+  <a href="https://github.com/Indra55" target="_blank"><img src="https://img.icons8.com/ios-filled/50/github.png"/> GitHub</a>
+  <a href="https://leetcode.com/u/Hitanshugala" target="_blank"><img src="https://img.icons8.com/ios-filled/50/code.png"/> LeetCode</a>
+  <a href="https://instagram.com/hitanshu326" target="_blank"><img src="https://img.icons8.com/ios-filled/50/instagram-new.png"/> Instagram</a>
+  <a href="https://medium.com/@galahitanshu" target="_blank"><img src="https://img.icons8.com/ios-filled/50/medium-new.png"/> Medium</a>
+  <a href="https://codeforces.com/profile/hitanshugala" target="_blank"><img src="https://img.icons8.com/ios-filled/50/code-fork.png"/> CodeForces</a>
+  <a href="https://twitter.com/dev_hitanshu" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" style="filter: invert(1);" />
+  Twitter
+</a>
+
+</div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Full-Stack Developer & GenAI Specialist
-</h1>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,react,nextjs,nodejs,flask,tensorflow,pytorch" alt="Skills" />
+<!-- Add spacing here -->
+<div style="margin-top: 24px;" align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,redis,cpp,react,nextjs,nodejs,flask,tensorflow,pytorch" alt="Skills" />
 </div>
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
@@ -36,16 +72,16 @@ I'm a passionate **Full-Stack Developer** and **GenAI Specialist** with expertis
 
 Currently pursuing my **B.Tech in Information Technology with Honors in DevOps** at SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering (expected May 2027).
 
-<table>
+<<table>
   <tr>
     <td>
       <ul>
-        <li>🔭 I specialize in <b>multi-agent AI architectures</b> and <b>full-stack development</b></li>
-        <li>🌱 Currently exploring advanced <b>LLM fine-tuning techniques</b> and <b>AI visualization tools</b></li>
-        <li>💡 I thrive on building intelligent systems that solve complex problems</li>
-        <li>🌐 Passionate about the intersection of AI and practical software applications</li>
-        <li>🏆 Proven track record in hackathons and case study competitions</li>
-        <li>📚 Constantly learning and adapting to emerging technologies</li>
+        <li>🔭 Specializing in <b>multi-agent AI systems</b> and <b>scalable full-stack development</b></li>
+        <li>🌱 Actively exploring <b>LLM fine-tuning</b>, <b>AI-driven visualizations</b>, and real-time systems</li>
+        <li>💡 Passionate about building <b>intelligent, high-impact solutions</b> that address real-world challenges</li>
+        <li>🌐 Bridging the gap between <b>advanced AI research</b> and <b>practical software applications</b></li>
+        <li>🏆 Proven track record at national-level <b>hackathons</b> and <b>case study competitions</b></li>
+        <li>📚 Lifelong learner with hands-on experience across <b>AI/ML</b>, <b>distributed systems</b>, and <b>web engineering</b></li>
       </ul>
     </td>
     <td>
@@ -55,167 +91,11 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
     </td>
   </tr>
 </table>
-          <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://img.icons8.com/color/48/000000/stocks.png" width="25" />
-          Stock Analyzer
-        </h3>
-        <div align="center">
-          <a href="https://github.com/Indra55/Stock_Analysis_Agent/" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/Crew--AI-FF5A5F?style=flat-square&logo=robot&logoColor=white" alt="Crew-AI" />
-            <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          </p>
-          <p align="left">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" /> Multi-agent stock analysis system with 6 specialized AI agents for financial data collection, fundamental analysis, technical analysis, sentiment evaluation, and price forecasting.
-            <br><br>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" /> Features a React-based interface with TradingView integration for real-time visualization of 50+ stock indicators.
-            <br><br>
-            <b>Impact:</b> 30% improved decision-making efficiency with 50% reduction in analysis time
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://img.icons8.com/?size=100&id=113526&format=png&color=000000" width="25" />
-          AgentMesh
-        </h3>
-        <div align="center">
-          <a href="https://github.com/Indra55/Multi-Agent-MarketPlace" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/Crew--AI-FF5A5F?style=flat-square&logo=robot&logoColor=white" alt="Crew-AI" />
-            <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-            <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
-          </p>
-          <p align="left">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Flexible multi-agent framework supporting 15+ specialized AI agents across corporate marketing, legal, education, and finance domains.
-            <br><br>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" /> Features advanced document processing capabilities with automated meeting summarization and document Q&A.
-            <br><br>
-            <b>Impact:</b> 40% reduction in business analysis time with enhanced decision support
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="25" />
-          PLOTT
-        </h3>
-        <div align="center">
-          <a href="https://github.com/Indra55/PLOTT" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-            <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-            <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
-          </p>
-          <p align="left">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" /> Transform natural language into beautiful statistical visualizations powered by Google's Gemini API.
-            <br><br>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" /> AI-powered chart recommendation system that automatically suggests ideal chart types for your data.
-            <br><br>
-            <b>Features:</b> Multiple visualization types, intelligent sample data generation, customization options, and accessibility features
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="25" />
-          BookShelf-API
-        </h3>
-        <div align="center">
-          <a href="https://github.com/Indra55/bookshelf-api" target="_blank">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-          </a>
-          <p>
-            <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-            <img src="https://img.shields.io/badge/Gorilla_Mux-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Gorilla Mux" />
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-            <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API" />
-          </p>
-          <p align="left">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" /> High-performance RESTful API capable of handling 1,000+ requests per second for efficient book management with minimal latency.
-            <br><br>
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" /> Features optimized JSON serialization and a modular architecture for maximum scalability.
-            <br><br>
-            <b>Impact:</b> 30% reduction in data processing time with 40% less code redundancy
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
-
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> What Sets Me Apart
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <div align="center">
-           <h3>AI Expertise</h3>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Multi--Agent_Systems-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Multi-Agent Systems">
-        </p>
-        <p align="center">
-          Specialized in designing and implementing multi-agent AI systems that collaborate to solve complex problems. Proficient in advanced AI techniques, LLM fine-tuning, and AI-powered analytics.
-        </p>
-      </td>
-      <td width="33%">
-        <div align="center">
-           <h3>Full-Stack Mastery</h3>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/End--to--End_Development-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="End-to-End Development">
-        </p>
-        <p align="center">
-          Experienced in building complete solutions from database design to responsive frontend interfaces. Skilled in modern frameworks and best practices for scalable, maintainable applications.
-        </p>
-      </td>
-      <td width="33%">
-        <div align="center">
-           <h3>Problem Solver</h3>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Innovative_Solutions-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Innovative Solutions">
-        </p>
-        <p align="center">
-          Proven track record in competitive environments, consistently delivering innovative solutions to complex challenges. Analytical thinker with strong algorithmic problem-solving skills.
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.postimg.cc/DvzsH0Cz/cfa0b9934d1a728a2d438c3650396bfd-2.png" alt="Linus Quote" />
 </div>
 
 <div align="center">
@@ -259,211 +139,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Metrics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Indra55&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=indra55&theme=highcontrast)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=Indra55&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indra55&custom_title=Hitanshu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Achievements & Hackathons
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Competition</th>
-      <th>Result</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td>
-        <b>Hackniche 3.0 2025</b>
-      </td>
-      <td>Finalist (Top 30 out of 500)</td>
-      <td>Built an AI-powered e-commerce platform with recommendation system, RAG chatbot, visual search, and NLP capabilities</td>
-    </tr>
-    <tr>
-      <td>
-        <b>Cyber-Cypher 4.0 2025</b>
-      </td>
-      <td>Finalist (Top 30 out of 300)</td>
-      <td>Developed "Startup Assistant" - a GenAI solution to support early-stage founders with strategic planning and resource optimization</td>
-    </tr>
-    <tr>
-      <td>
-        <b>National Case Study Competition 2025</b>
-      </td>
-      <td>3rd Place Nationally</td>
-      <td>Secured bronze position in the prestigious case study competition organized by IIC, IIT Bombay</td>
-    </tr>
-    <tr>
-      <td>
-        <b>D2K Hackathon 2025</b>
-      </td>
-      <td>Finalist (Top teams out of 150)</td>
-      <td>Created a Multi-Agent Marketplace system with intelligent agent coordination for automated business operations</td>
-    </tr>
-    <tr>
-      <td>
-        <b>Manipal Hackathon 2024</b>
-      </td>
-      <td>Finalist (Top 28 out of 400)</td>
-      <td>Developed Apooch, a sustainable pet-focused application aligned with UN Sustainable Development Goals</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
-
-## <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30"> Education & Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="60" />
-          <h3>B.Tech in Information Technology with Honors in DevOps (2023-2027)</h3>
-          <p>SVKM's Dwarkadas Jivanlal Sanghvi College of Engineering</p>
-        </div>
-        <p><em>Relevant Coursework:</em></p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-007396?style=for-the-badge" alt="DSA" />
-          <img src="https://img.shields.io/badge/Database_Management_Systems-4479A1?style=for-the-badge" alt="DBMS" />
-          <img src="https://img.shields.io/badge/Design_and_Analysis_of_Algorithms-FF6F00?style=for-the-badge" alt="DAA" />
-          <img src="https://img.shields.io/badge/Advanced_Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Advanced Java" />
-          <img src="https://img.shields.io/badge/Object--Oriented_Design-00599C?style=for-the-badge" alt="OOD" />
-          <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-  alt="OOD" />
-          <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-          <img src="https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Web Development" />
-        </div>
-      </td>
-      <td width="40%">
-        <div align="center">
-          <h2>Certifications</h2>
-        </div>
-        <ul>
-          <li>
-            <img src="https://img.shields.io/badge/Machine_Learning_Specialization-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera" />
-            Coursera
-          </li>
-          <li>
-            <img src="https://img.shields.io/badge/Full--Stack_Web_Development-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy" />
-            Udemy
-          </li>
-          <li>
-            <img src="https://img.shields.io/badge/Advanced_Data_Structures-2EC866?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-            GeeksforGeeks
-          </li>
-          <li>
-            <img src="https://img.shields.io/badge/AI_Engineering_Professional-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="IBM" />
-            IBM
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
- 
-   
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Recent Blog Posts
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="40" />
-        </div>
-        <h3 align="center">Building Multi-Agent Travel Agent</h3>
-        <p align="center">From Idea to Itinerary: Building a Travel Assistant Powered by Agentic-AI.</p>
-        <div align="center">
-          <a href="https://medium.com/@galahitanshu" target="_blank">
-            <img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-          </a>
-        </div>
-      </td>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="40" />
-        </div>
-        <h3 align="center">Revolutionizing Startup Guidance with AI</h3>
-        <p align="center">In this blog post, we’re diving into our cutting-edge project developed during the Taqneeq’s Cypher 4.0 Hackathon. Our mission? To simplify the startup journey for solo founders using AI. The result? We became finalists!.</p>
-        <div align="center">
-          <a href="https://medium.com/@galahitanshu" target="_blank">
-            <img src="https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-          </a>
-        </div>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="line">
-</div>
-
- 
-    
-    
-
-
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> Future Goals
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="60" />
-          <h3>Advanced AI Research</h3>
-        </div>
-        <p align="center">
-          Contribute to cutting-edge research in multi-agent systems and develop novel approaches to agent collaboration and coordination.
-        </p>
-      </td>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="60" />
-          <h3>Open Source Contributions</h3>
-        </div>
-        <p align="center">
-          Increase involvement in open-source AI and development communities, creating tools and libraries that benefit the wider tech ecosystem.
-        </p>
-      </td>
-      <td width="33%">
-        <div align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="60" />
-          <h3>Knowledge Sharing</h3>
-        </div>
-        <p align="center">
-          Expand educational content creation through technical blogs, tutorials, and workshops to help others learn advanced AI and development techniques.
-        </p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
