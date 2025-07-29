@@ -1,10 +1,7 @@
 <div align="center">
 
-  <h1 align="center">
-  Hitanshu Gala
-</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hitanshu+Gala;Full-Stack+Developer;Backend+Engineer+%7C+GenAI+Builder;Scalable+Systems+Enthusiast;Creative+Technologist;Open+Source+Contributor;Tech+for+Impact;Building+Future-Ready+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hitanshu+Gala;Full-Stack+Developer;Backend+Dev;GenAI+Builder;Scalable+Systems+Enthusiast;Creative+Technologist;Open+Source+Contributor;Tech+for+Impact;Building+Future-Ready+Apps" alt="Typing SVG" />
 <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="Typing SVG" />
 
   
