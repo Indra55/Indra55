@@ -42,7 +42,6 @@ Currently pursuing my **B.Tech in Information Technology with Honors in DevOps**
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <div align="center">
   <img src="https://i.postimg.cc/DvzsH0Cz/cfa0b9934d1a728a2d438c3650396bfd-2.png" alt="Linus Quote" />
