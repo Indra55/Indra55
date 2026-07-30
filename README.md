@@ -1,78 +1,33 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=800&lines=HITANSHU+GALA;ARCHITECTING+DISTRIBUTED+SYSTEMS;ENGINEERING+AI+AGENTS" alt="Typing SVG" />
-</a>
-
-<br/>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,go,javascript,typescript,react,nextjs,nodejs,postgres,redis,docker,tensorflow,pytorch,flask&perline=14&theme=dark" alt="Tech Stack" />
-
-<br/>
-<br/>
-
-<div style="max-width: 800px; text-align: left; display: inline-block;">
-
-<p align="center">
-<code><b>SOFTWARE ENGINEER IN BUILDING</b></code>
-<br/>
-Currently pursuing Engineering Major in IT at <b>DJSCE</b>.
-</p>
-
-<br/>
-
-I am focused on the intersection of distributed computing and artificial intelligence. My engineering practice centers on building robust infrastructure that enables complex systems to function at scale.
-
-<br/>
-<br/>
 <div align="left">
-<b>Core Competencies:</b>
+<img align="right" width="380" alt="photo" src="https://i.pinimg.com/736x/af/6e/1f/af6e1fe12acb801b380e07782b6f4302.jpg">
 
-<ul style="list-style-type: square;">
-<li><b>Distributed Systems:</b> Architecting fault-tolerant microservices, designing real-time event streaming pipelines, and optimizing database internals for high throughput.</li>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=EEEEEE&background=00000000&center=false&vCenter=true&width=600&height=60&lines=i'm+hitanshu+gala" alt="i'm hitanshu gala" />
 
-<li><b>Agentic AI:</b> Developing autonomous multi-agent workflows, implementing advanced RAG architectures, and engineering systems capable of complex reasoning chains.</li>
+building things that don't crash
 
-<li><b>Backend Engineering:</b> designing scalable APIs, managing cloud infrastructure, and ensuring low-latency performance for data-intensive applications.</li>
-</ul>
-</div>
-</div>
+stack: rust · c++ · go · python · typescript · redis · postgresql · docker · linux · distributed systems · ai agents
 
-<br/>
-<br/>
+[github](https://github.com/Indra55) &nbsp;&nbsp; [email](mailto:galahitanshu@gmail.com) &nbsp;&nbsp; [linkedin](https://linkedin.com/in/hitanshugala) &nbsp;&nbsp; [portfolio](https://hitanshu.tech/)
 
-<img src="https://i.postimg.cc/DvzsH0Cz/cfa0b9934d1a728a2d438c3650396bfd-2.png" width="100%" style="max-width: 600px; border-radius: 4px;" alt="Philosophy" />
+\> currently building: [bezel](https://github.com/Indra55/bezel) - a rust userspace daemon for wayland trackpad edge gestures
 
-<br/>
-<br/>
+<br>
 
-<p>
-<a href="https://hitanshu.tech"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:galahitanshu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/hitanshugala"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/dev_hitanshu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-</p>
+i'm a final year IT engineering student who spends most of his free time in the terminal, building things that live close to the metal. distributed systems, low-latency backends, and agentic ai are where i actually want to be - everything else is just practice for that.
 
-<p>
-<a href="https://leetcode.com/u/Hitanshugala"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://codeforces.com/profile/hitanshugala"><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-<a href="https://medium.com/@galahitanshu"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-</p>
+open source is where i learn fastest. bezel started as a fix for my own trackpad and turned into a rust daemon with 130+ stars and an actual community around it. i'd rather ship something small and real than talk about something big and theoretical.
 
-<br/>
-<br/>
+right now i split my time between backend infra at work and side projects that push me somewhere new - federated learning, multi-agent workflows, systems-level linux stuff.
 
-<h3><code>VISITOR_COUNT</code></h3>
-<img src="https://count.getloli.com/@indra55?theme=booru-huggboo" alt="Hitanshu Gala" />
+i run arch on my main machine, niri/hyprland as my compositor.
 
-<br/>
-<br/>
+<br>
 
-<hr style="border: 1px solid #000; width: 50%;">
+work experience
 
-<br/>
+digikendr - sde (ai) intern
+sole full-stack engineer on a pre-launch marketing saas, building the next.js + fastapi + supabase + redis stack and shipping ai-driven marketing features end to end.
 
-<img src="https://i.pinimg.com/originals/14/76/f6/1476f61a3779ab1dd89666b44a8851f9.gif" width="200">
-<h2>See Ya!</h2>
+<br>
+
 </div>
