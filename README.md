@@ -1,6 +1,4 @@
-<img align="right" width="340" alt="photo" src="https://i.pinimg.com/736x/af/6e/1f/af6e1fe12acb801b380e07782b6f4302.jpg">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=EEEEEE&background=00000000&center=false&vCenter=true&width=600&height=60&lines=i'm+hitanshu+gala" alt="i'm hitanshu gala" />
+<img align="right" width="340" alt="photo" src="https://i.pinimg.com/736x/af/6e/1f/af6e1fe12acb801b380e07782b6f4302.jpg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=42&duration=1&pause=99999&color=EEEEEE&background=00000000&center=false&vCenter=true&width=600&height=60&lines=i'm+hitanshu+gala" alt="i'm hitanshu gala" />
 
 building things that don't crash
 
