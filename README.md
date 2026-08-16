@@ -8,7 +8,9 @@ building things that don't crash
 
 stack: rust · c++ · go · python · typescript · redis · postgresql · docker · linux · distributed systems · ai agents
 
-[portfolio](https://hitanshu.tech/) &nbsp;&nbsp; [linkedin](https://linkedin.com/in/hitanshugala) &nbsp;&nbsp;[email](mailto:galahitanshu@gmail.com) 
+[portfolio](https://hitanshu.tech/) &nbsp;&nbsp; [linkedin](https://linkedin.com/in/hitanshugala) &nbsp;&nbsp;[email](mailto:galahitanshu@gmail.com) <br>
+
+
 \> currently building: [bezel](https://github.com/Indra55/bezel) - a rust userspace daemon for wayland trackpad edge gestures
 
 i'm a final year IT engineering student who spends most of his free time in the terminal, building things that live close to the metal. distributed systems, low-latency backends, and agentic ai are where i actually want to be - everything else is just practice for that.
